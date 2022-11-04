@@ -1,13 +1,11 @@
-<!-- BADGES -->
-<! --IDIOMAS_DO_PROJETO -->
-
 # Car_Driving
 Project built on the Unity platform of a game of a car dodging boxes on the road
 
-IMAGENS_E_GIFS_DO_PROJETO
+![Video of the Gameplay](./Videos/ezgif.com-gif-maker-Gameplay.gif)
 
 ## Languages Used
-<!-- C# Icon -->
-<!-- Unity -->
+<img src="./Images/c-sharp.svg" width="50" height="50">
+<img src="./Images/unity.svg" width="50" height="50">
 
 ## Installation Guide
+Clone this repository and Import in your Unity IDE.
